@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  22 NOV 2016 23:42
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  3 DEC 2016 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,16 +370,16 @@ Underfull \hbox (badness 10000) in alignment at lines 172--175
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 193--196
+Underfull \hbox (badness 10000) in alignment at lines 200--203
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 241--244
+Underfull \hbox (badness 10000) in alignment at lines 235--238
 [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
 
 Overfull \vbox (50.58878pt too high) has occurred while \output is active []
 
@@ -387,11 +387,11 @@ Overfull \vbox (50.58878pt too high) has occurred while \output is active []
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
  (./Justin Mi Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 253.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  )
 (\end occurred when \iffalse on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
