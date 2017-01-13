@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1483654373 "Justin Mi Resume.tex" "Justin Mi Resume.pdf" "Justin Mi Resume" 1484189463
+["pdflatex"] 1484339851 "Justin Mi Resume.tex" "Justin Mi Resume.pdf" "Justin Mi Resume" 1484339852
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -53,11 +53,11 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt" 1463979168 3520378 010aaf5a738348f136b1de9595fa7567 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Justin Mi Resume.aux" 1483654374 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "Justin Mi Resume.out" 1483654374 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Justin Mi Resume.tex" 1483654372 10222 abb6ed7dc63b5d1a95b7a160aa5a5963 ""
+  "Justin Mi Resume.aux" 1484339852 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "Justin Mi Resume.out" 1484339852 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Justin Mi Resume.tex" 1484339850 10685 6454381abb197d1ea6f3de9eb9fecb8c ""
   (generated)
   "Justin Mi Resume.aux"
-  "Justin Mi Resume.out"
   "Justin Mi Resume.pdf"
+  "Justin Mi Resume.out"
   "Justin Mi Resume.log"
