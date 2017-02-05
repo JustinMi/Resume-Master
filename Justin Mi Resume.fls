@@ -1,7 +1,7 @@
 PWD /Users/justinmi/Google Drive/Cal/Professional/Resumes/Master
 INPUT /usr/local/texlive/2016/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt
+INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT Justin Mi Resume.tex
 OUTPUT Justin Mi Resume.log
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -53,49 +53,7 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hxetex.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hxetex.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/stringenc.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/stringenc.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-INPUT Justin Mi Resume.aux
-INPUT Justin Mi Resume.aux
-OUTPUT Justin Mi Resume.aux
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT Justin Mi Resume.out
-INPUT Justin Mi Resume.out
-INPUT Justin Mi Resume.out
-INPUT Justin Mi Resume.out
-OUTPUT Justin Mi Resume.out
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT Justin Mi Resume.aux
